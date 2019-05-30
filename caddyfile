@@ -1,0 +1,4 @@
+localhost:8080 {
+     proxy /srisales 122.168.127.153
+     tls self_signed
+}
